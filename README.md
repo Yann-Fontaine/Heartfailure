@@ -1,3 +1,3 @@
-# MLOps Training 1
+# End of Course Project : Heart Failure
 
-End of Course Project : Master as much MLOps tools as possible.
+I designed an Heart Failure pronostic web app using Python and XGBoost.
